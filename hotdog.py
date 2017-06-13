@@ -1,2 +1,2 @@
 def hotdogify(my_string):
-    return my_string + '_hotdog'
+    return '{}_hotdog'.format(my_string)
